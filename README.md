@@ -21,11 +21,4 @@ You can visit my portfoliio website by visiting [link] feel free to explore the 
 
 This project was created as part of my web development learning journey to strengthen my understanding of HTML and CSS and to build a foundation for more advanced front-end and full-stack projects.
 
-## Future Enhancements
-
-* Add responsive design for mobile devices
-* Include a Projects section
-* Add JavaScript for interactivity
-* Improve overall UI/UX design
-
 Thank you for visiting my portfolio website!!
