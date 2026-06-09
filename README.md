@@ -28,6 +28,4 @@ This project was created as part of my web development learning journey to stren
 * Add JavaScript for interactivity
 * Improve overall UI/UX design
 
-## Author
-
-Electronics and Communication Engineering Graduate (2021) currently pursuing Full Stack Development training.
+Thank you for visiting my portfolio website!!
