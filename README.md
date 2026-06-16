@@ -24,3 +24,5 @@ This project was created as part of my web development learning journey to stren
 Thank you for visiting my portfolio website!!
  
 Newly added by priya
+
+new line added by karthi from web
